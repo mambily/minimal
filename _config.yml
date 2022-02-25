@@ -2,9 +2,8 @@ title: <p align="center"> Ambily M </p>
 logo: /assets/img/Ambily.jpg
 
 description: 
-  <p>
+  <p style="font-size:11px">
   Working as R&D Specialist in NOKIA with 11.5 years of IT experience in Bigdata, Hadoop, Spark, PySpark, Hive, MongoDB, Business Intelligence, Data warehousing, Python. 
   1 year experience in AI/ML usecases like Subscriber Clustering, Subscriber Churn and ML pipeline building. 
   </p>
-
 theme: jekyll-theme-minimal
